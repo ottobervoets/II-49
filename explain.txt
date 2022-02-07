@@ -1,0 +1,1 @@
+This program takes as input two integral numbers. It converts the first one from hours to minutes, and it converts the second one from seconds to minutes. The results are printed to the screen.
